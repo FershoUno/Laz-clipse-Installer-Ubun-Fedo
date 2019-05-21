@@ -22,7 +22,7 @@ instalar Git
  
  sudo apt-get install git
  
- 
+#  
  
  En Fedora
  
