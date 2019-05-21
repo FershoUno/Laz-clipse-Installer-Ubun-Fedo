@@ -28,7 +28,7 @@ instalar Git
  
  dnf update
  
- dnf install git
+ sudo dnf install git
 
 
 
