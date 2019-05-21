@@ -16,13 +16,18 @@ GitHub  : https://github.com/nucleolinux-uagrm
 
 instalar Git
  
- en Ubuntu
+ En Ubuntu
+ 
  apt-get update
+ 
  sudo apt-get install git
  
  
- en Fedora
+ 
+ En Fedora
+ 
  dnf update
+ 
  dnf install git
 
 
