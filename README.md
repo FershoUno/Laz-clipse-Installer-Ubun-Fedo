@@ -1,8 +1,24 @@
 # Laz-clipse-Installer-Ubun-Fedo
+# NUCLEO LINUX UAGRM
 
-#NucleoLinuxUAGRM
 
-Instrucciones para instalar Lazarus + [Eclipse+OpenJDK] 
+
+# Instrucciones para instalar Lazarus + [Eclipse+OpenJDK] 
+
+# REQUERIMIENTO
+
+instalar Git
+ 
+ en Ubuntu
+ apt-get update
+ sudo apt-get install git
+ 
+ 
+ en Fedora
+ dnf update
+ dnf install git
+
+
 
 
 
