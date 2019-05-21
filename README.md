@@ -1,9 +1,8 @@
 # Laz-clipse-Installer-Ubun-Fedo
-# NUCLEO LINUX UAGRM
+
+#Nucleo Linux UAGRM
 
 
-
-# Instrucciones para instalar Lazarus + [Eclipse+OpenJDK] 
 
 # REQUERIMIENTO
 
