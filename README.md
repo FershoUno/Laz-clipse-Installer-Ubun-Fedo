@@ -20,15 +20,15 @@ instalar Git
  
  apt-get update
  
- sudo apt-get install git
+ sudo apt-get install git -y
  
 #  
  
  En Fedora
  
- dnf update
+ dnf -y update
  
- sudo dnf install git
+ sudo dnf -y install git
 
 
 
