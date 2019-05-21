@@ -8,7 +8,7 @@ Instrucciones para instalar Lazarus + [Eclipse+OpenJDK]
 
 # INSTALACION EN UBUNTU 
 
-git clone [https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo](https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo)
+git clone https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo
 
 cd Laz-clipse-Installer-Ubun-Fedo
 
@@ -19,7 +19,7 @@ sudo ./laz-clipse-installer-ubuntu
 
 # INSTALACION EN FEDORA 
 
-git clone [https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo](https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo)
+git clone https://github.com/FershoUno/Laz-clipse-Installer-Ubun-Fedo
 
 cd Laz-clipse-Installer-Ubun-Fedo
 
