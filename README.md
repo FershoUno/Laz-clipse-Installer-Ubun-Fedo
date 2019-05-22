@@ -18,7 +18,7 @@ instalar Git
  
  En Ubuntu
  
- apt-get update
+ sudo apt-get update
  
  sudo apt-get install git -y
  
@@ -26,7 +26,7 @@ instalar Git
  
  En Fedora
  
- dnf -y update
+ sudo dnf -y update
  
  sudo dnf -y install git
 
